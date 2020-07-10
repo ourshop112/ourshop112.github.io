@@ -1,0 +1,202 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594401670084">
+  <folder name="css">
+    <file name="site_global.css" crc="411688271"/>
+    <file name="master_a-master.css" crc="463481029" ref="contact:index:our-members:about:products:service"/>
+    <file name="contact.css" crc="34208216" ref="contact"/>
+    <file name="index.css" crc="287640781" ref="index"/>
+    <file name="iefonts_index.css" crc="3813961659" ref="index"/>
+    <file name="our-members.css" crc="4064821853" ref="our-members"/>
+    <file name="about.css" crc="146239258" ref="about"/>
+    <file name="products.css" crc="3833684775" ref="products"/>
+    <file name="service.css" crc="521359683" ref="service"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:service:products:contact:our-members"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:service:products:contact:our-members"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:service:products:contact:our-members"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:service:products:contact:our-members"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:service:products:contact:our-members"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:service:products:contact:our-members"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:service:products:contact:our-members"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:service:contact:our-members"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1650.php" crc="351356083" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:products:contact:our-members"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:service:products:contact:our-members"/>
+    <file name="require.js" crc="4157109226" ref="index:about:service:products:contact:our-members"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="about:service:contact:our-members"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="about:service:contact:our-members"/>
+    <file name="touchswipe.js" crc="4066113679" ref="about:service:contact:our-members"/>
+  </folder>
+  <folder name="images">
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or.jpg" crc="4045003917" ref="index:service">
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="milky-way-2695569_960_720.jpg" crc="6439809" ref="index:about">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ghj.jpg" crc="4182876905" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6123pijycjl_sl1200_.jpg" crc="4074288224" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elasto-02-l-cnvymrn-5-asian-navy-original-imafjhsehz2ukgqw.jpg" crc="289547323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="il20170327134623341.jpg" crc="4088902343" ref="index:products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="511ptk4snrl_ux569_.jpg" crc="216239087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60728819-professional-makeup-brushes-and-tools-natural-make-up-products-set-eyeshadows-and-concealers-on-whit.jpg" crc="435943590" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cotton-panjabi-for-men-sb-p661-online-shopping-in-bangladesh-shopnobari-2.jpg" crc="415213780" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0076102_stylish-casual-soft-cotton-katua-shirt-for-men-k6-uw_550.jpg" crc="4109836000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3993228101" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="43807-fmcg-pixabay1.jpg" crc="3905379877" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="72dc4e345520467efc23f15419f86694.jpg" crc="4198501092" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon01.png" crc="4187546945" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon03.png" crc="3993242863" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon02.png" crc="424432916" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon05.png" crc="340789256" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon04.png" crc="3793358111" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon06.png" crc="3973752638" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2084-fr.jpg" crc="4084001144" ref="about"/>
+    <file name="https___hypebeastcom_image_2019_01_nike-adapt-bb-self-lacing-basketball-sneaker-fitadapt-1.jpg" crc="3891447690" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bigstock-a-woman-holds-a-red-arrow-down-300302830-1560425372017.jpg" crc="409314405" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2000-fr.jpg" crc="4045871157" ref="about"/>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2009-fr.jpg" crc="318235129" ref="about:our-members"/>
+    <file name="23243-desktop-wallpaper-1280x1024_69357.jpg" crc="444289826" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="11-u2241-fr.png" crc="400549448" ref="service"/>
+    <file name="pexels-photo-large.jpg" crc="4012881650" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pexels-photo-29781-large.jpg" crc="26085836" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="979d963c.jpg" crc="482073878" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="service:contact"/>
+    <file name="facebook.png" crc="317936629" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="61-1.jpg" crc="208543831" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="item_xl_28335653_73587064.jpg" crc="4016975068" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="kids-boys-fashion-denim-jeans-pants-design.jpg" crc="4231783855" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="lady-s-shoes.jpg" crc="4129947363" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="71opiymsbfl_sx300_-u3007-fr.jpg" crc="4267021677" ref="products"/>
+    <file name="htb1k1iebqzok1rjszfl761i4vxay-u2980-fr.jpg" crc="3898760870" ref="products"/>
+    <file name="412475d4bae226c724eda3822d74780a-u2979-fr.jpg" crc="3917179347" ref="products"/>
+    <file name="smallimage1-u3013-fr.jpg" crc="494740507" ref="products"/>
+    <file name="12542402354_1434216623.gif" crc="45361024" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="14004856567_723765851.jpg" crc="3763529001" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="11118889767_1503438441.jpg" crc="430231897" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="ma-2016_special-section-storypg.jpg" crc="226870289" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u3342_states.png" crc="373462075" ref="contact"/>
+    <file name="u3342_states-r.png" crc="452600734" ref="contact"/>
+    <file name="u3337_states.png" crc="174880675" ref="contact"/>
+    <file name="u3337_states-r.png" crc="102330930" ref="contact"/>
+    <file name="u3339_states.png" crc="509753531" ref="contact"/>
+    <file name="u3339_states-r.png" crc="510566006" ref="contact"/>
+    <file name="online_shop_line-16-512.png" crc="4257933036" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="quality-guarantee-crest.png" crc="3970545987" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="img_20200110_143716-01.jpg" crc="269476826" ref="our-members">
+      <caption webpage="our-members" alt=""/>
+      <caption webpage="our-members" alt=""/>
+    </file>
+    <file name="00011163.jpg" crc="503467351" ref="our-members">
+      <caption webpage="our-members" alt=""/>
+      <caption webpage="our-members" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4225754904" seo="true" mt="1594391067436" redirect="true"/>
+  <file name="about.html" crc="360411363" seo="true" mt="1594391936281" redirect="true"/>
+  <file name="service.html" crc="4174711080" seo="true" mt="1594397534704" redirect="true"/>
+  <file name="products.html" crc="3801399352" seo="true" mt="1594396985666" redirect="true"/>
+  <file name="contact.html" crc="341630891" seo="true" mt="1594397854880" redirect="true"/>
+  <file name="our-members.html" crc="203498961" seo="true" mt="1594401492301" redirect="true"/>
+</manifest>
