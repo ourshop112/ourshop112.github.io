@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594408854051">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594409212274">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
     <file name="master_a-master.css" crc="4207313759" ref="contact:about:products:index:our-members:service"/>
     <file name="contact.css" crc="4225534264" ref="contact"/>
-    <file name="about.css" crc="4047114322" ref="about"/>
+    <file name="about.css" crc="4132087025" ref="about"/>
     <file name="products.css" crc="3836286031" ref="products"/>
     <file name="index.css" crc="4222250626" ref="index"/>
     <file name="iefonts_index.css" crc="34279648" ref="index"/>
-    <file name="our-members.css" crc="532459842" ref="our-members"/>
+    <file name="our-members.css" crc="4273638740" ref="our-members"/>
     <file name="service.css" crc="3984928185" ref="service"/>
   </folder>
   <folder name="scripts">
@@ -101,15 +101,15 @@
     <file name="heart.png" crc="117585526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2084-fr.jpg" crc="4084001144" ref="about"/>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u3660-fr.jpg" crc="4084001144" ref="about"/>
     <file name="https___hypebeastcom_image_2019_01_nike-adapt-bb-self-lacing-basketball-sneaker-fitadapt-1.jpg" crc="3891447690" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="bigstock-a-woman-holds-a-red-arrow-down-300302830-1560425372017.jpg" crc="409314405" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2000-fr.jpg" crc="4045871157" ref="about"/>
-    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u2009-fr.jpg" crc="318235129" ref="about:our-members"/>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u3643-fr.jpg" crc="4045871157" ref="about"/>
+    <file name="depositphotos_87080742-stock-illustration-s-initial-circle-company-or-u3646-fr.jpg" crc="318235129" ref="about:our-members"/>
     <file name="23243-desktop-wallpaper-1280x1024_69357.jpg" crc="444289826" ref="service">
       <caption webpage="service" alt=""/>
     </file>
@@ -197,9 +197,9 @@
     </file>
   </folder>
   <file name="index.html" crc="426535378" seo="true" mt="1594407737287" redirect="true"/>
-  <file name="about.html" crc="4248076794" seo="true" mt="1594408817994" redirect="true"/>
+  <file name="about.html" crc="114944057" seo="true" mt="1594409156202" redirect="true"/>
   <file name="service.html" crc="448112763" seo="true" mt="1594404678631" redirect="true"/>
   <file name="products.html" crc="4254115505" seo="true" mt="1594404678631" redirect="true"/>
   <file name="contact.html" crc="3811191556" seo="true" mt="1594405719415" redirect="true"/>
-  <file name="our-members.html" crc="3868184939" seo="true" mt="1594404678631" redirect="true"/>
+  <file name="our-members.html" crc="3871780007" seo="true" mt="1594404678631" redirect="true"/>
 </manifest>
