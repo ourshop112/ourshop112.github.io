@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594410151718">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594410279318">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
     <file name="master_a-master.css" crc="4207313759" ref="contact:about:products:index:our-members:service"/>
     <file name="contact.css" crc="4225534264" ref="contact"/>
     <file name="about.css" crc="3771233166" ref="about"/>
     <file name="products.css" crc="3836286031" ref="products"/>
-    <file name="index.css" crc="3781210704" ref="index"/>
-    <file name="iefonts_index.css" crc="291741202" ref="index"/>
+    <file name="index.css" crc="4222250626" ref="index"/>
+    <file name="iefonts_index.css" crc="34279648" ref="index"/>
     <file name="our-members.css" crc="4273638740" ref="our-members"/>
     <file name="service.css" crc="3984928185" ref="service"/>
   </folder>
@@ -196,7 +196,7 @@
       <caption webpage="our-members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4269424972" seo="true" mt="1594410112576" redirect="true"/>
+  <file name="index.html" crc="426535378" seo="true" mt="1594410243700" redirect="true"/>
   <file name="about.html" crc="3830670268" seo="true" mt="1594409506461" redirect="true"/>
   <file name="service.html" crc="448112763" seo="true" mt="1594409979072" redirect="true"/>
   <file name="products.html" crc="4254115505" seo="true" mt="1594404678631" redirect="true"/>
