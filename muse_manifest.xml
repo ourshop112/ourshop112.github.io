@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594406034297">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594407228187">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
     <file name="master_a-master.css" crc="4207313759" ref="contact:about:products:index:our-members:service"/>
@@ -196,7 +196,7 @@
       <caption webpage="our-members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4176217750" seo="true" mt="1594405940568" redirect="true"/>
+  <file name="index.html" crc="4143981739" seo="true" mt="1594407157860" redirect="true"/>
   <file name="about.html" crc="406868042" seo="true" mt="1594404701791" redirect="true"/>
   <file name="service.html" crc="448112763" seo="true" mt="1594404678631" redirect="true"/>
   <file name="products.html" crc="4254115505" seo="true" mt="1594404678631" redirect="true"/>
