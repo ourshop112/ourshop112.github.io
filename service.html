@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=411688271"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3827826096"/>
-  <link rel="stylesheet" type="text/css" href="css/service.css?crc=100498631" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/service.css?crc=426553523" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -614,18 +614,25 @@ animation-name: rotate; animation-duration: 3s; animation-timing-function: linea
     <div class="browser_width colelem" id="u2576-bw">
      <div id="u2576"><!-- group -->
       <div class="clearfix" id="u2576_align_to_page">
-       <div class="Button rounded-corners clearfix grpelem" id="buttonu2598"><!-- container box -->
-        <div class="size_fixed colelem" id="u2719"><!-- custom html -->
-         <i class="fa fa-cogs fa-block" style="line-height:60px;"></i>
+       <div class="clearfix grpelem" id="pu3863"><!-- column -->
+        <div class="size_fixed colelem" id="u3863"><!-- custom html -->
+         
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+
         </div>
-        <div class="rounded-corners clearfix colelem" id="u2592-4"><!-- content -->
-         <p>our sold products</p>
-        </div>
-        <div class="rounded-corners clearfix colelem" id="u2595-4"><!-- content -->
-         <p>4012</p>
-        </div>
-        <div class="rounded-corners clearfix colelem" id="u2696-4"><!-- content -->
-         <p>We have several products that have been sold. His records.</p>
+        <div class="Button rounded-corners clearfix colelem" id="buttonu2598"><!-- container box -->
+         <div class="size_fixed colelem" id="u2719"><!-- custom html -->
+          <i class="fa fa-cogs fa-block" style="line-height:60px;"></i>
+         </div>
+         <div class="rounded-corners clearfix colelem" id="u2592-4"><!-- content -->
+          <p>our sold products</p>
+         </div>
+         <div class="rounded-corners counter clearfix colelem" id="u2595-4"><!-- content -->
+          <p>4012</p>
+         </div>
+         <div class="rounded-corners clearfix colelem" id="u2696-4"><!-- content -->
+          <p>We have several products that have been sold. His records.</p>
+         </div>
         </div>
        </div>
        <div class="Button rounded-corners clearfix grpelem" id="buttonu2629"><!-- container box -->
@@ -635,7 +642,7 @@ animation-name: rotate; animation-duration: 3s; animation-timing-function: linea
         <div class="rounded-corners clearfix colelem" id="u2633-5"><!-- content -->
          <p><span id="u2633">pending products </span><span id="u2633-2"></span></p>
         </div>
-        <div class="rounded-corners clearfix colelem" id="u2631-4"><!-- content -->
+        <div class="counter clearfix colelem" id="u2631-4"><!-- content -->
          <p><span id="u2631">317</span></p>
         </div>
         <div class="rounded-corners clearfix colelem" id="u2699-4"><!-- content -->
@@ -649,7 +656,7 @@ animation-name: rotate; animation-duration: 3s; animation-timing-function: linea
         <div class="rounded-corners clearfix colelem" id="u2650-4"><!-- content -->
          <p><span id="u2650">today delivered</span></p>
         </div>
-        <div class="rounded-corners clearfix colelem" id="u2648-4"><!-- content -->
+        <div class="counter clearfix colelem" id="u2648-4"><!-- content -->
          <p><span id="u2648">629</span></p>
         </div>
         <div class="rounded-corners clearfix colelem" id="u2702-4"><!-- content -->
@@ -664,7 +671,7 @@ animation-name: rotate; animation-duration: 3s; animation-timing-function: linea
          <div class="rounded-corners clearfix colelem" id="u2665-4"><!-- content -->
           <p>replacement / return</p>
          </div>
-         <div class="rounded-corners clearfix colelem" id="u2664-4"><!-- content -->
+         <div class="counter clearfix colelem" id="u2664-4"><!-- content -->
           <p><span id="u2664">12</span></p>
          </div>
          <div class="rounded-corners clearfix colelem" id="u2705-4"><!-- content -->
@@ -819,6 +826,19 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
   <!--HTML Widget code-->
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+<script>
+(function(e){"use strict";e.fn.counterUp=function(t){var n=e.extend({time:400,delay:10},t);return this.each(function(){var t=e(this),r=n,i=function(){var e=[],n=r.time/r.delay,i=t.text(),s=/[0-9]+,[0-9]+/.test(i);i=i.replace(/,/g,"");var o=/^[0-9]+$/.test(i),u=/^[0-9]+\.[0-9]+$/.test(i),a=u?(i.split(".")[1]||[]).length:0;for(var f=n;f>=1;f--){var l=parseInt(i/n*f);u&&(l=parseFloat(i/n*f).toFixed(a));if(s)while(/(\d+)(\d{3})/.test(l.toString()))l=l.toString().replace(/(\d+)(\d{3})/,"$1,$2");e.unshift(l)}t.data("counterup-nums",e);t.text("0");var c=function(){t.text(t.data("counterup-nums").shift());if(t.data("counterup-nums").length)setTimeout(t.data("counterup-func"),r.delay);else{delete t.data("counterup-nums");t.data("counterup-nums",null);t.data("counterup-func",null)}};t.data("counterup-func",c);setTimeout(t.data("counterup-func"),r.delay)};t.waypoint(i,{offset:"100%",triggerOnce:!0})})}})(jQuery);
+</script>
+ <script>
+    jQuery(document).ready(function( $ ) {
+        $('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+    });
+  </script>
+
 				
    </body>
 </html>
