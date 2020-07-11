@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Contact</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=411688271"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4207313759"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=4225534264" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3827826096"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=3846177760" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -27,7 +27,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-   </head>
+    <!--HTML Widget code-->
+  
+<style>
+div.u3796 {
+  display: inline;
+  border: 5px solid #0000FF;
+  background:#FFFFFF;
+  position: absolute;
+  padding: 25px;
+color:#0000FF;
+}
+div.u3796:hover {
+  transform: translate(-5px, -5px);
+  box-shadow: 12px 12px #0000FF;
+background:#CCCCCC;
+color:#0000FF;
+transition: all 0.5s ease 0s ;
+}
+</style>
+
+ </head>
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
@@ -109,6 +129,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+    <a class="nonblock nontext size_fixed colelem" id="u3796" href="http://www.facebook.com/ourshop112"><!-- custom html -->
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+ <div class="u3796">Our Shop Presented by Kawsar Hossain Ashik we are always at your service </div>
+</a>
    </div>
    <div class="clearfix grpelem" id="pbuttonu3398"><!-- group -->
     <div class="Button rounded-corners clearfix mse_pre_init" id="buttonu3398"><!-- container box -->
@@ -130,7 +154,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="607" data-content-above-spacer="607" data-content-below-spacer="354"></div>
+   <div class="verticalspacer" data-offset-top="798" data-content-above-spacer="798" data-content-below-spacer="163"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/ma-2016_special-section-storypg.jpg?crc=226870289" alt=""/>
@@ -140,6 +164,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <img class="preload" src="images/online_shop_line-16-512.png?crc=4257933036" alt=""/>
    <img class="preload" src="images/quality-guarantee-crest.png?crc=3970545987" alt=""/>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -159,9 +190,9 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu3333', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:true,displayInterval:3000,transitionStyle:'fading',transitionDuration:3000,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu3333 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#buttonu3402').registerPositionScrollEffect([{"in":[-Infinity,250],"speed":[0,1]},{"in":[250,Infinity],"speed":[-2,1]}]);/* scroll effect */
-$('#buttonu3398').registerPositionScrollEffect([{"in":[-Infinity,250],"speed":[0,1]},{"in":[250,Infinity],"speed":[2,1]}]);/* scroll effect */
-$('#buttonu3406').registerPositionScrollEffect([{"in":[-Infinity,250],"speed":[0,1]},{"in":[250,Infinity],"speed":[0,2]}]);/* scroll effect */
+$('#buttonu3402').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,250]},{"speed":[-2,1],"in":[250,Infinity]}]);/* scroll effect */
+$('#buttonu3398').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,250]},{"speed":[2,1],"in":[250,Infinity]}]);/* scroll effect */
+$('#buttonu3406').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,250]},{"speed":[0,2],"in":[250,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
@@ -169,5 +200,9 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=4153641093" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+
    </body>
 </html>

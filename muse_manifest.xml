@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594410279318">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594454986983">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
-    <file name="master_a-master.css" crc="4207313759" ref="contact:about:products:index:our-members:service"/>
-    <file name="contact.css" crc="4225534264" ref="contact"/>
-    <file name="about.css" crc="3771233166" ref="about"/>
-    <file name="products.css" crc="3836286031" ref="products"/>
-    <file name="index.css" crc="4222250626" ref="index"/>
-    <file name="iefonts_index.css" crc="34279648" ref="index"/>
-    <file name="our-members.css" crc="4273638740" ref="our-members"/>
-    <file name="service.css" crc="3984928185" ref="service"/>
+    <file name="master_a-master.css" crc="3827826096" ref="contact:about:products:index:our-members:service"/>
+    <file name="contact.css" crc="3846177760" ref="contact"/>
+    <file name="about.css" crc="3843685923" ref="about"/>
+    <file name="products.css" crc="489620959" ref="products"/>
+    <file name="index.css" crc="145349725" ref="index"/>
+    <file name="iefonts_index.css" crc="509154263" ref="index"/>
+    <file name="our-members.css" crc="3778397616" ref="our-members"/>
+    <file name="service.css" crc="100498631" ref="service"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:service:products:contact:our-members"/>
@@ -196,10 +196,10 @@
       <caption webpage="our-members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="426535378" seo="true" mt="1594410243700" redirect="true"/>
-  <file name="about.html" crc="3830670268" seo="true" mt="1594409506461" redirect="true"/>
-  <file name="service.html" crc="448112763" seo="true" mt="1594409979072" redirect="true"/>
-  <file name="products.html" crc="4254115505" seo="true" mt="1594404678631" redirect="true"/>
-  <file name="contact.html" crc="3811191556" seo="true" mt="1594405719415" redirect="true"/>
-  <file name="our-members.html" crc="3871780007" seo="true" mt="1594404678631" redirect="true"/>
+  <file name="index.html" crc="515228691" seo="true" mt="1594454770531" redirect="true"/>
+  <file name="about.html" crc="3773457496" seo="true" mt="1594453613197" redirect="true"/>
+  <file name="service.html" crc="526727681" seo="true" mt="1594454837803" redirect="true"/>
+  <file name="products.html" crc="524494224" seo="true" mt="1594453613197" redirect="true"/>
+  <file name="contact.html" crc="87581313" seo="true" mt="1594453613197" redirect="true"/>
+  <file name="our-members.html" crc="463970680" seo="true" mt="1594453613197" redirect="true"/>
 </manifest>
