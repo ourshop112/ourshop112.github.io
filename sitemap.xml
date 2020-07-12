@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kh.com/index.html</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,13 +11,49 @@
   </url>
   <url>
     <loc>http://kh.com/about.html</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kh.com/images/spring-276014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/the-caucasus-5302236_1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/dhk-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/afterfocus_1577441234110-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/dsc01661-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/drop-of-water-545377.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/spring-27601471x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/the-caucasus-5302236_192068x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/dhk-0166x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/afterfocus_1577441234110-01-crop-u4077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/dsc01661-0160x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kh.com/images/drop-of-water-54537775x45.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kh.com/service.html</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -29,7 +65,7 @@
   </url>
   <url>
     <loc>http://kh.com/contact.html</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
