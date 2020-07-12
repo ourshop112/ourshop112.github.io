@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594560103101">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1594560406060">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
     <file name="master_a-master.css" crc="4207313759" ref="index:products:about:contact:service:our-members"/>
-    <file name="index.css" crc="419688725" ref="index"/>
+    <file name="index.css" crc="4015859796" ref="index"/>
     <file name="iefonts_index.css" crc="509154263" ref="index"/>
     <file name="products.css" crc="3836286031" ref="products"/>
     <file name="about.css" crc="4150029287" ref="about"/>
@@ -22,7 +22,7 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u1650.php" crc="351356083" ref="index"/>
+    <file name="form-u1650.php" crc="3785290783" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:products:contact:our-members"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:service:products:contact:our-members"/>
     <file name="require.js" crc="4157109226" ref="index:about:service:products:contact:our-members"/>
@@ -236,7 +236,7 @@
       <caption webpage="our-members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="220079034" seo="true" mt="1594559147526" redirect="true"/>
+  <file name="index.html" crc="57123770" seo="true" mt="1594560373651" redirect="true"/>
   <file name="about.html" crc="4182246803" seo="true" mt="1594560010122" redirect="true"/>
   <file name="service.html" crc="377079312" seo="true" mt="1594558917372" redirect="true"/>
   <file name="products.html" crc="4254115505" seo="true" mt="1594453613197" redirect="true"/>
