@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Infinity-Shop form  Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'http://Stay%20on%20Current%20Page',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'ourshop112@gmail.com',
-		'to' => 'ourshop112@gmail.com'
+		'from' => 'khashik1200@gmail.com',
+		'to' => 'khashik1200@gmail.com'
 	),
 	'fields' => array(
 		'custom_U1663' => array(
