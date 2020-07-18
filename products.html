@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Products</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=411688271"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=121154050"/>
-  <link rel="stylesheet" type="text/css" href="css/products.css?crc=4176543648" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3793823307"/>
+  <link rel="stylesheet" type="text/css" href="css/products.css?crc=3791558516" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -378,7 +378,37 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>Infinity-shop by Kawsar Hossain Ashik</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1972" data-content-above-spacer="1971" data-content-below-spacer="451"></div>
+   <div class="verticalspacer" data-offset-top="1972" data-content-above-spacer="1971" data-content-below-spacer="62"></div>
+   <div class="browser_width grpelem" id="u4307-bw">
+    <div id="u4307"><!-- group -->
+     <div class="clearfix" id="u4307_align_to_page">
+      <div class="grpelem" id="u4568"><!-- simple frame --></div>
+      <nav class="MenuBar clearfix grpelem" id="menuu4439"><!-- horizontal box -->
+       <div class="MenuItemContainer clearfix grpelem" id="u4440"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4443" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4446-4"><!-- content --><p>Home</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u4468"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4469" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4470-4"><!-- content --><p>About</p></div><div class="grpelem" id="u4472"><!-- content --></div></a>
+        <div class="SubMenu MenuLevel1 clearfix" id="u4473"><!-- vertical box -->
+         <ul class="SubMenuView clearfix colelem" id="u4474"><!-- vertical box -->
+          <li class="MenuItemContainer clearfix colelem" id="u4475"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u4476" href="our-members.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4478-4"><!-- content --><p>Our Members</p></div></a></li>
+         </ul>
+        </div>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u4461"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4462" href="service.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4464-4"><!-- content --><p>Service</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u4454"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u4457" href="products.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4459-4"><!-- content --><p>Products</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u4447"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4448" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4451-4"><!-- content --><p>Contact</p></div></a>
+       </div>
+      </nav>
+      <div class="grpelem" id="u4571"><!-- simple frame --></div>
+     </div>
+    </div>
+   </div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/twitter.png?crc=4102706121" alt=""/>
@@ -399,14 +429,16 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#menuu2753').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,133.05]},{"speed":[0,1],"in":[133.05,Infinity]}]);/* scroll effect */
-$('#menuu2753').registerOpacityScrollEffect([{"fade":31,"opacity":100,"in":[-Infinity,133.05]},{"opacity":100,"in":[133.05,133.05]},{"fade":157,"opacity":0,"in":[133.05,Infinity]}]);/* scroll effect */
-$('#u2796-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,34.15]},{"speed":[-2,1],"in":[34.15,Infinity]}]);/* scroll effect */
-$('#u2798-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,36.58]},{"speed":[2,1],"in":[36.58,Infinity]}]);/* scroll effect */
-$('#u2799-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,40.58]},{"speed":[2,1],"in":[40.58,Infinity]}]);/* scroll effect */
+$('#menuu2753').registerPositionScrollEffect([{"in":[-Infinity,133.05],"speed":[0,1]},{"in":[133.05,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#menuu2753').registerOpacityScrollEffect([{"in":[-Infinity,133.05],"opacity":100,"fade":31},{"in":[133.05,133.05],"opacity":100},{"in":[133.05,Infinity],"opacity":0,"fade":157}]);/* scroll effect */
+$('#u2796-4').registerPositionScrollEffect([{"in":[-Infinity,34.15],"speed":[0,1]},{"in":[34.15,Infinity],"speed":[-2,1]}]);/* scroll effect */
+$('#u2798-4').registerPositionScrollEffect([{"in":[-Infinity,36.58],"speed":[0,1]},{"in":[36.58,Infinity],"speed":[2,1]}]);/* scroll effect */
+$('#u2799-4').registerPositionScrollEffect([{"in":[-Infinity,40.58],"speed":[0,1]},{"in":[40.58,Infinity],"speed":[2,1]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
