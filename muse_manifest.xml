@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1595074767222">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1595147026328">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
-    <file name="master_a-master.css" crc="3793823307" ref="contact:about:index:our-members:products:service"/>
-    <file name="contact.css" crc="229987839" ref="contact"/>
-    <file name="about.css" crc="402353433" ref="about"/>
-    <file name="index.css" crc="3941060376" ref="index"/>
-    <file name="iefonts_index.css" crc="447378703" ref="index"/>
-    <file name="our-members.css" crc="4103367005" ref="our-members"/>
-    <file name="products.css" crc="3791558516" ref="products"/>
-    <file name="service.css" crc="420811088" ref="service"/>
+    <file name="master_a-master.css" crc="285869428" ref="service:contact:about:our-members:products:index"/>
+    <file name="service.css" crc="172117565" ref="service"/>
+    <file name="contact.css" crc="476319308" ref="contact"/>
+    <file name="about.css" crc="119132596" ref="about"/>
+    <file name="our-members.css" crc="89121981" ref="our-members"/>
+    <file name="products.css" crc="3958180080" ref="products"/>
+    <file name="index.css" crc="269875354" ref="index"/>
+    <file name="iefonts_index.css" crc="343087828" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:service:products:contact:our-members"/>
     <file name="museutils.js" crc="3803043152" ref="index:about:service:products:contact:our-members"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:service:products:contact:our-members"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:about:service:products:contact:our-members"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:service:products:contact:our-members"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:service:products:contact:our-members"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:service:products:contact:our-members"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about:service:products:contact:our-members"/>
@@ -22,7 +22,7 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u1650.php" crc="4267484526" ref="index"/>
+    <file name="form-u1650.php" crc="108242766" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:products:contact:our-members"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:service:products:contact:our-members"/>
     <file name="require.js" crc="4157109226" ref="index:about:service:products:contact:our-members"/>
@@ -46,29 +46,29 @@
     <file name="milky-way-2695569_960_720.jpg" crc="6439809" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ghj.jpg" crc="4182876905" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="6123pijycjl_sl1200_.jpg" crc="4074288224" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="elasto-02-l-cnvymrn-5-asian-navy-original-imafjhsehz2ukgqw.jpg" crc="289547323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ghj.jpg" crc="4182876905" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="il20170327134623341.jpg" crc="4088902343" ref="index:products">
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="511ptk4snrl_ux569_.jpg" crc="216239087" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="60728819-professional-makeup-brushes-and-tools-natural-make-up-products-set-eyeshadows-and-concealers-on-whit.jpg" crc="435943590" ref="index">
+    <file name="6123pijycjl_sl1200_.jpg" crc="4074288224" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cotton-panjabi-for-men-sb-p661-online-shopping-in-bangladesh-shopnobari-2.jpg" crc="415213780" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="511ptk4snrl_ux569_.jpg" crc="216239087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="0076102_stylish-casual-soft-cotton-katua-shirt-for-men-k6-uw_550.jpg" crc="4109836000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60728819-professional-makeup-brushes-and-tools-natural-make-up-products-set-eyeshadows-and-concealers-on-whit.jpg" crc="435943590" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg2.jpg" crc="3993228101" ref="index">
@@ -237,10 +237,10 @@
     </file>
     <file name="picsart_07-16-050234-u3477-fr.jpg" crc="4058773943" ref="our-members"/>
   </folder>
-  <file name="index.html" crc="435090227" seo="true" mt="1595074058231" redirect="true"/>
-  <file name="about.html" crc="522341747" seo="true" mt="1595074058231" redirect="true"/>
-  <file name="service.html" crc="4078781391" seo="true" mt="1595074058231" redirect="true"/>
-  <file name="products.html" crc="3912346292" seo="true" mt="1595074084564" redirect="true"/>
-  <file name="contact.html" crc="3839570539" seo="true" mt="1595074058231" redirect="true"/>
-  <file name="our-members.html" crc="433132602" seo="true" mt="1595074058231" redirect="true"/>
+  <file name="index.html" crc="453936352" seo="true" mt="1595146883022" redirect="true"/>
+  <file name="about.html" crc="519294686" seo="true" mt="1595146342862" redirect="true"/>
+  <file name="service.html" crc="150564172" seo="true" mt="1595146342862" redirect="true"/>
+  <file name="products.html" crc="10966611" seo="true" mt="1595146342862" redirect="true"/>
+  <file name="contact.html" crc="296517077" seo="true" mt="1595146342862" redirect="true"/>
+  <file name="our-members.html" crc="4094709112" seo="true" mt="1595146342862" redirect="true"/>
 </manifest>
