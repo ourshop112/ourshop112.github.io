@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Our Members </title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=411688271"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4017517798"/>
-  <link rel="stylesheet" type="text/css" href="css/our-members.css?crc=3795047836" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4146836969"/>
+  <link rel="stylesheet" type="text/css" href="css/our-members.css?crc=4105012964" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -178,7 +178,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu3464', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:3000,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu3464 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#pamphletu3464').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,-327]},{"speed":[0,1],"in":[-327,Infinity]}]);/* scroll effect */
+$('#pamphletu3464').registerPositionScrollEffect([{"in":[-Infinity,-327],"speed":[0,2]},{"in":[-327,Infinity],"speed":[0,1]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
