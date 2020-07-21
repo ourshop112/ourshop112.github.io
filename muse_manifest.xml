@@ -1,34 +1,41 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1595158542361">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1595348828046">
   <folder name="css">
     <file name="site_global.css" crc="411688271"/>
-    <file name="master_a-master.css" crc="4146836969" ref="products:about:service:index:contact:our-members"/>
-    <file name="products.css" crc="3902067542" ref="products"/>
-    <file name="about.css" crc="157092286" ref="about"/>
-    <file name="service.css" crc="510581002" ref="service"/>
-    <file name="index.css" crc="518919722" ref="index"/>
-    <file name="iefonts_index.css" crc="343087828" ref="index"/>
-    <file name="contact.css" crc="187973593" ref="contact"/>
-    <file name="our-members.css" crc="4105012964" ref="our-members"/>
+    <file name="master_a-master.css" crc="463606812" ref="winter-collection:products:index:sign-up:baby-s-world:contact:about:baby-s-shoes:baby-s-care-product:our-members:service:baby-s-dresses"/>
+    <file name="winter-collection.css" crc="4002947386" ref="winter-collection"/>
+    <file name="products.css" crc="386335838" ref="products"/>
+    <file name="index.css" crc="4196346597" ref="index"/>
+    <file name="iefonts_index.css" crc="186827127" ref="index"/>
+    <file name="sign-up.css" crc="195507751" ref="sign-up"/>
+    <file name="baby-s-world.css" crc="4047998602" ref="baby-s-world"/>
+    <file name="contact.css" crc="3853929217" ref="contact"/>
+    <file name="about.css" crc="432525502" ref="about"/>
+    <file name="baby-s-shoes.css" crc="354932392" ref="baby-s-shoes"/>
+    <file name="baby-s-care-product.css" crc="4232140002" ref="baby-s-care-product"/>
+    <file name="our-members.css" crc="396157613" ref="our-members"/>
+    <file name="service.css" crc="399162998" ref="service"/>
+    <file name="baby-s-dresses.css" crc="3787619077" ref="baby-s-dresses"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:service:products:contact:our-members"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:service:products:contact:our-members"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:service:products:contact:our-members"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:service:products:contact:our-members"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:service:products:contact:our-members"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:service:products:contact:our-members"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:service:products:contact:our-members"/>
-    <file name="webpro.js" crc="242022427" ref="index:about:service:contact:our-members"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:service:contact:our-members:sign-up"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u1650.php" crc="108242766" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:products:contact:our-members"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:service:products:contact:our-members"/>
-    <file name="require.js" crc="4157109226" ref="index:about:service:products:contact:our-members"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:products:contact:our-members:winter-collection"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
+    <file name="require.js" crc="4157109226" ref="index:about:service:products:contact:our-members:winter-collection:baby-s-world:baby-s-shoes:baby-s-dresses:baby-s-care-product:sign-up"/>
     <file name="musewpslideshow.js" crc="457073769" ref="about:service:contact:our-members"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="about:service:contact:our-members"/>
     <file name="touchswipe.js" crc="4066113679" ref="about:service:contact:our-members"/>
+    <file name="form-u7396.php" crc="3849035392" ref="sign-up"/>
   </folder>
   <folder name="images">
     <file name="picsart_07-16-050234.jpg" crc="4057747096" ref="index:service">
@@ -42,33 +49,41 @@
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="milky-way-2695569_960_720.jpg" crc="6439809" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="elasto-02-l-cnvymrn-5-asian-navy-original-imafjhsehz2ukgqw.jpg" crc="289547323" ref="index">
+    <file name="ghj.jpg" crc="4182876905" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ghj.jpg" crc="4182876905" ref="index">
+    <file name="6123pijycjl_sl1200_.jpg" crc="4074288224" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elasto-02-l-cnvymrn-5-asian-navy-original-imafjhsehz2ukgqw.jpg" crc="289547323" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="il20170327134623341.jpg" crc="4088902343" ref="index:products">
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="6123pijycjl_sl1200_.jpg" crc="4074288224" ref="index">
+    <file name="511ptk4snrl_ux569_.jpg" crc="216239087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60728819-professional-makeup-brushes-and-tools-natural-make-up-products-set-eyeshadows-and-concealers-on-whit.jpg" crc="435943590" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cotton-panjabi-for-men-sb-p661-online-shopping-in-bangladesh-shopnobari-2.jpg" crc="415213780" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="511ptk4snrl_ux569_.jpg" crc="216239087" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="0076102_stylish-casual-soft-cotton-katua-shirt-for-men-k6-uw_550.jpg" crc="4109836000" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="60728819-professional-makeup-brushes-and-tools-natural-make-up-products-set-eyeshadows-and-concealers-on-whit.jpg" crc="435943590" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg2.jpg" crc="3993228101" ref="index">
@@ -181,6 +196,9 @@
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
+    <file name="pattern-4tsm.jpg" crc="4173298176" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
     <file name="61-1.jpg" crc="208543831" ref="products">
       <caption webpage="products" alt=""/>
     </file>
@@ -236,11 +254,89 @@
       <caption webpage="our-members" alt=""/>
     </file>
     <file name="picsart_07-16-050234-u3477-fr.jpg" crc="4058773943" ref="our-members"/>
+    <file name="pattern-1779.jpg" crc="3877212655" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+      <caption webpage="winter-collection" alt=""/>
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="8cb383e4bfcd5ea7f7d9a60dba05131a.jpg" crc="362170505" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="pattern-acnj.jpg" crc="4179757999" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="2ad017ce91e6ae3a3301d8289ff77630.jpg" crc="3977092496" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="sn-30.jpg" crc="3946014519" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="48417260_264219417577714_7637513027037691904_n.jpg" crc="172206467" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="48387322_264219384244384_5648259534750220288_n.jpg" crc="257272093" ref="winter-collection">
+      <caption webpage="winter-collection" alt=""/>
+    </file>
+    <file name="8081712907_1506556842-u5667-fr.jpg" crc="444158906" ref="baby-s-shoes"/>
+    <file name="12375361812_1391523779-u5803-fr.jpg" crc="139730337" ref="baby-s-shoes"/>
+    <file name="12238917960_1299551610-u5768-fr.jpg" crc="4276184482" ref="baby-s-shoes"/>
+    <file name="3588081636_1904174458-u5698-fr.jpg" crc="4077334337" ref="baby-s-shoes"/>
+    <file name="11903569635_1695440358-u5733-fr.jpg" crc="505880527" ref="baby-s-shoes"/>
+    <file name="8747913055_1036880762.jpg" crc="3829550003" ref="baby-s-shoes">
+      <caption webpage="baby-s-shoes" alt=""/>
+    </file>
+    <file name="12834550581_2106680310-u5824-fr.jpg" crc="3985109020" ref="baby-s-shoes"/>
+    <file name="4654072675_1036880762-u5750-fr.jpg" crc="3948532911" ref="baby-s-shoes"/>
+    <file name="12350900357_619723106-u5714-fr.jpg" crc="193879773" ref="baby-s-shoes"/>
+    <file name="12168114601_1007564749-u5786-fr.jpg" crc="4153943866" ref="baby-s-shoes"/>
+    <file name="8340478938_670140918.jpg" crc="463568276" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="10808726334_1042839928.jpg" crc="455454774" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="8917674000_1042839928.jpg" crc="4176123592" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="8323503753_670140918.jpg" crc="377923764" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="4678981611_3336491.jpg" crc="179126570" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="8323602075_670140918.jpg" crc="3957913995" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="10888639300_1042839928.jpg" crc="4025047149" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="10895603392_1042839928.jpg" crc="165185965" ref="baby-s-dresses">
+      <caption webpage="baby-s-dresses" alt=""/>
+    </file>
+    <file name="4093985666_535866640.jpg" crc="3906699514" ref="baby-s-care-product">
+      <caption webpage="baby-s-care-product" alt=""/>
+    </file>
+    <file name="8738086925_725389757.jpg" crc="297438942" ref="baby-s-care-product">
+      <caption webpage="baby-s-care-product" alt=""/>
+    </file>
+    <file name="8278457491_1814324543.jpg" crc="4192300189" ref="baby-s-care-product">
+      <caption webpage="baby-s-care-product" alt=""/>
+    </file>
+    <file name="photography-1595088159269-2210-01.jpg" crc="232397194" ref="sign-up">
+      <caption webpage="sign-up" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="253137065" seo="true" mt="1595154744814" redirect="true"/>
-  <file name="about.html" crc="3962081482" seo="true" mt="1595154744814" redirect="true"/>
-  <file name="service.html" crc="4050070413" seo="true" mt="1595154744814" redirect="true"/>
-  <file name="products.html" crc="36166676" seo="true" mt="1595154744814" redirect="true"/>
-  <file name="contact.html" crc="3826636764" seo="true" mt="1595154744814" redirect="true"/>
-  <file name="our-members.html" crc="186514581" seo="true" mt="1595154744814" redirect="true"/>
+  <file name="index.html" crc="198121396" seo="true" mt="1595348342471" redirect="true"/>
+  <file name="about.html" crc="3968491028" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="service.html" crc="215850899" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="products.html" crc="4177381982" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="contact.html" crc="506022721" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="our-members.html" crc="323745786" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="winter-collection.html" crc="4015539612" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="baby-s-world.html" crc="478953472" seo="true" mt="1595341280794" redirect="true"/>
+  <file name="baby-s-shoes.html" crc="284532715" seo="true" mt="1595346026326" redirect="true"/>
+  <file name="baby-s-dresses.html" crc="297948239" seo="true" mt="1595341946942" redirect="true"/>
+  <file name="baby-s-care-product.html" crc="4061661205" seo="true" mt="1595348749340" redirect="true"/>
+  <file name="sign-up.html" crc="4213302404" seo="true" mt="1595341280794" redirect="true"/>
 </manifest>
